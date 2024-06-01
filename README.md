@@ -5,7 +5,7 @@ STEPS for project setup:
 Step 1: Set Up the Project Structure
 1. Created a New Java Project:
     * Used IntelliJ IDEA to create a new Java project.
-    * Name the project something meaningful, like TodoTestProject.
+    * Name the project  fanCodeAssigment.
 2. Set Up Maven:
     * If you're using Maven  pom.xml  file.
 Step 2: Add Dependencies
