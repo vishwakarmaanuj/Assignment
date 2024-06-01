@@ -14,13 +14,15 @@ Step 2: Add Dependencies
     * Refresh/Reload Dependencies:
     * Ensure your IDE refreshes or reloads the project to download the new dependencies.
   
-Steps 2 : Create the Package and Classes
+Steps 3: Created pojo classes named: Album,Comments,Users,Todo,Post,Photos
+  
+Steps 3 : Create the Package and Classes
 
-Steps 3 : Create Services Classes
+Steps 4 : Create Services Classes
 
-Steps 4 : Create the Test Class
+Steps 5 : Create the Test Class
 
-Steps 5 :  Run the Tests
+Steps 6 :  Run the Tests
 
-Step 6: Verify the Outputs
+Step 7  : Verify the Outputs
 
